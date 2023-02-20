@@ -1,0 +1,87 @@
+body{
+  margin: 0;
+  padding: 2px;
+  background-color: #040d15;
+  color: white;
+  flex-direction: column;
+  font-size : 15px;
+  
+}
+
+#id{
+  text-align: center; 
+  
+}
+
+#h{
+  text-align: center;
+}
+
+.textt{
+  text-overflow: ellipsis;
+  letter-spacing: 2px;
+  color: lightcyan;
+}
+
+.texttt{
+  color: lightyellow;
+}
+
+.headd{
+  background-color: pink;
+}
+
+ .searchbar{
+  margin: auto;
+  position: relative; 
+  width: 200px;
+  height: 35px;
+  border: 4px solid #2980b9;
+  padding: 0px 5px;
+  border-radius: 50px;
+  color: #040d15;
+}
+
+.elementcont{
+  width:100%;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.search{
+    border: none;
+    padding: 0 5px;
+    width: 100%;
+    height: 100%;
+    font-family: "Nunito";
+    color: white;
+    font-weight: 500;
+    background-color: #040d15 ;
+
+}
+
+.search:focus{
+  outline: none;
+}
+
+.damn{
+    font-size: 30px;
+    color: rgb(197, 182, 182);
+}
+
+input{
+  font-size: 12px;
+}
+
+/* fa-solid fa-magnifying-glass{
+  color: white;
+} */
+
+.nv{
+  display: flex;
+}
+
+input.search{
+  height: 12px;
+  border-radius: 20px;
+}
