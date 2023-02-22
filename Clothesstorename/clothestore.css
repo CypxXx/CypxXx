@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css?family=Metal+Mania");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400");
+
+*{
+  padding: 0;
+  margin: 0;
+  font-family: Raleway;
+  box-sizing: border-box;
+  color: #777;
+}
+
+body{
+  background-color: 040d15;
+}
+
+.shit{
+  font-size: 12px;
+}
+
+.storehming{
+  padding-top: 20px;
+  text-align: center;
+}
+
+.nav{
+  height: 30px;
+  width: 100%;
+  padding-top: 2px;
+}
+
+.nav li{
+  display: inline;
+}
+
+.nav a {
+  text-decoration: none;
+  padding: 1em;
+  color: white;
+  font-weight: lighter;
+}
+
+.store-product{
+  padding: 25px;
+  
+  
+}
+
+.main-header{
+  background-color: black;
+  display: left;
+  text-align: center;
+}
+
+.product-border{
+  border: 2px solid white;
+  height: 280px;
+  text-align: center;
+  padding: 10px;
+  background-color: beige;
+  color: black;
+}
+
+.product-image{
+  width: 50%;
+  height: 55%
+
+}
+
+.product-question{
+  font-size: 10px;
+  color: black;
+}
+.product-ans{
+  font-size: 10px;
+  color: black;
+  padding-left: 15px;
+}
+
+.product-details{
+  padding: 10px;
+  padding-top: 15px;
+  text-align: left;
+  width: 50%;
+  display: flex;
+}
+
+.productbutton a{
+  text-decoration: none;
+}
+
+.productbutton button{
+  background-color: black;
+  border-radius: 10px;
+  padding: 5px;
+
+}
