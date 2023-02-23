@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  font-family: Raleway;
+  background-color: #040d15;
+}
+
+.main-header{
+  background-color: black;
+ display: flex;
+  padding: 20px;
+
+}
+
+.main-header a{
+  padding: 20px 41px;
+  color: white;
+  text-decoration: none;
+
+}
+
+/*  -------------- a chhung hi main header -------------- */
+
+
+/*------------------store name------------------ */
+
+section .dawr-border{
+  background-color: white;
+  height: 200px;
+  display: flex;
+}
+
+div .dawr-image{
+  background-color: red;
+  height:150px;
+  margin-top:25px;
+  width: 40%;
+}
+
+div .dawr-question{
+  height:170px;
+  margin-top:25px;
+  width: 20%;
+}
+
+div h1{
+  padding-top: 10px;
+  height: 10px;
+}
+
+div .dawr-question p{
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+div .dawr-answer{
+  height:170px;
+  margin-top:25px;
+  width: 50%;
+}
+
+div .dawr-answer p{
+  padding-left: 10px;
+  padding-top: 5px;
+}
