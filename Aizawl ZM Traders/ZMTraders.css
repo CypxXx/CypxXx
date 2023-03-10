@@ -1,5 +1,5 @@
-/* @import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
- */
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+
 *{
   padding: 0;
   margin: 0;
@@ -72,7 +72,7 @@ section div .store-answ{
 }
 
 div .product-image{
-  padding: 10px;
+  padding: 3px;
 }
 
 .store-product h1{
@@ -81,11 +81,20 @@ div .product-image{
 }
 /*------------------store product------------------ */
 
-img .dawr-pic{
-  height: 19px;
-  width: 160px;
+div img.dawr-pic{
+  height: 200px;
+  width: 180px;
 }
 
+div .dawrpichnuai{
+  height: 50px;
+  width: 100%;
+}
+
+div .dawrpic-hnuai{
+  margin-left: 35%;
+  margin-top: 12px;
+}
 
 .dawrpichnuai button{
   background-color: #040d15;
@@ -170,11 +179,3 @@ div .detailsenna button{
 div .detailsenna button p{
   margin-top: 5px;
 }
-
-.numb{
-  text-decoration: none;
-}
-
-
-/* --------------Chapal Setting -------------- */
-
