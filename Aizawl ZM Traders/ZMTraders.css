@@ -184,3 +184,11 @@ div .r{
   margin-left: 25px;
   width: 100%;
 }
+
+div .pro-question p{
+  margin-left: 10px;
+}
+div .pro-answers p{
+  margin-left: 10px;
+}
+
