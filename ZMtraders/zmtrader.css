@@ -1,0 +1,124 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  font-family: Raleway;
+  background-color: white;
+}
+
+.main-header{
+  background-color: black;
+ display: flex;
+  padding: 20px;
+
+}
+
+.main-header a{
+  padding: 20px 41px;
+  color: white;
+  text-decoration: none;
+}
+
+/* ----------END OF HEADER------------ */
+
+.store-name{
+  display: flex;
+}
+
+.after-img{
+  display: flex;
+  font-size: 12px;
+
+}
+
+.store-name{
+  background-color: grey;
+}
+
+div .dawrpic{
+  width: 40%;
+}
+
+div .dawrpiclo{
+  width: 60%;
+}
+
+div .dawr-pic{
+  height: 230px;
+  width: 95%;
+  padding: 5px;
+}
+
+.dawrhming{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.after-img .store-question{
+  padding-top: 10px;
+  padding-left: 5px;
+  letter-spacing: 1px;
+  padding: 5px;
+}
+
+.after-img .store-answer{
+  padding-left: 15px;
+  padding-top: 10px;
+  letter-spacing: 1px;
+  padding: 5px;
+}
+
+.line{
+  display: flex;
+  justify-content: justify-between;
+}
+
+.pro-q-a{
+  display: flex;
+}
+
+.pro-thlalak{
+  width: 96%;
+  padding-left: 3px;
+  padding-top: 5px;
+}
+
+.pro-q{
+ padding-top: 12px; 
+ padding-left: 10px;
+}
+
+.pro-a{
+  padding-top: 12px;
+  padding-left: 15px;
+}
+
+.left{
+  background-color: rgb(204, 198, 198);
+  height: 320px;
+  border: 1px solid black;
+  width: 50%;
+  margin-top: 10px;
+
+}
+
+.right{
+  width: 50%;
+  background-color: rgb(204, 198, 198);
+  height: 320px;
+  border: 1px solid black;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.plol{
+  padding: 2px;  
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+
+
