@@ -35,15 +35,15 @@ body{
 }
 
 .store-name{
-  background-color: rgb(185, 182, 182);
+  backgound-color: rgb(235, 231, 231);
 }
 
 div .dawrpic{
-  width: 40%;
+  width: 50%;
 }
 
 div .dawrpiclo{
-  width: 60%;
+  width: 50%;
 }
 
 div .dawr-pic{
