@@ -25,6 +25,7 @@ body{
 
 .store-name{
   display: flex;
+  padding-top: 20px;
 }
 
 .after-img{
