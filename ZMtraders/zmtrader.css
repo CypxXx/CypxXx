@@ -98,7 +98,7 @@ div .dawr-pic{
 }
 
 .left{
-  background-color: rgb(241, 231, 231);
+  background-color: rgb(250, 247, 247);
   height: 370px;
   border: 1px solid black;
   width: 50%;
@@ -108,7 +108,7 @@ div .dawr-pic{
 
 .right{
   width: 50%;
-  background-color: rgb(241, 231, 231);
+  background-color: rgb(250, 247, 247);
   height: 370px;
   border: 1px solid black;
   margin-left: 10px;
