@@ -1,0 +1,38 @@
+body{
+  padding: 0;
+  background-color: black;
+}
+
+section{
+  background-color: black;
+  color: white;
+  height: 500px;
+}
+
+.storee{
+  background-color: white;
+}
+
+.notimage{
+  color: black;
+  display: flex;
+}
+
+.storee{
+  display: flex;
+}
+
+div .question{
+  width: 60px;
+  font-size: 9px;
+}
+
+div .answer{
+  width: 80px;
+  font-size: 9px;
+}
+
+.white{
+  color: black;
+}
+
