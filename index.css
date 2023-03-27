@@ -1,0 +1,16 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+.tourney{
+  display: flex;
+}
+
+.tourney-ans{
+  padding-left: 20px;
+}
+
+.flextur{
+  display: flex;
+}
